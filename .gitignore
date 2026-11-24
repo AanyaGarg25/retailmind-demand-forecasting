@@ -1,0 +1,19 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Unused original project datasets
+data/train.csv
+data/test.csv
+data/sample_submission.csv
